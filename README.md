@@ -1,0 +1,2 @@
+# arduino
+major is Uno
